@@ -318,4 +318,4 @@ Please follow the established coding standards and create pull requests for any 
 
 **NEXAS Team**  
 Version: 1.0.0  
-Last Updated: 2023
+Last Updated: 2025
